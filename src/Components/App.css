@@ -1,0 +1,62 @@
+.font
+{
+  font-family:'Times New Roman', Times, serif;
+  text-align:center;
+  font-size:20px;
+}
+.hover-effect:hover {
+  background-color: blue;
+  text-align: center;
+  padding-right: 15px;
+  margin-right: 5px;
+  background-size: auto;
+}
+.carousel-item{
+  width: 100%;
+}
+.carousel-caption{
+  margin-bottom: 200px;
+  font-family: 'Times New Roman', Times, serif;
+}
+#image {
+  width: 400px;
+  height: 300px;
+}
+.figure-caption{
+  font-size: medium;
+  color:black;
+  text-align:center;
+}
+a {
+  text-decoration: none;
+}
+.District{
+  text-align: left;
+}
+div.scrollmenu {
+  background-color:lightcyan;
+  overflow: auto;
+  white-space: nowrap;
+  border-color: lightgrey;
+  border: 1px solid;
+}
+div.scrollmenu li {
+  display: inline-block;
+  color: black;
+  padding: 14px;
+  text-decoration: none;
+}
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color:black;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.caption{
+  text-align: center;
+  font-size: 20px;
+  color: #555;
+}
